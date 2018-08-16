@@ -1,6 +1,6 @@
 # Laravel 5.6 based system to add products and reviews
 
-It is a demo project for demonstrating what can be generated with [QuickAdminPanel](https://quickadminpanel.com) tool, also a repository for this live-coding video.
+It is a demo project for demonstrating what can be generated with [QuickAdminPanel](https://quickadminpanel.com) tool, also a repository for [this live-coding video](https://youtu.be/ZtAdzIMciMo).
 
 ![Product reviews adminpanel screenshot](https://laraveldaily.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-16-at-12.57.13-PM.png)
 
